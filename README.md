@@ -1,4 +1,4 @@
-# dicoding-fundamental-front-end-web-development
+# Belajar Fundamental Front-End Web Development
 
 
 ### Setup
