@@ -1,5 +1,6 @@
 # dicoding-fundamental-front-end-web-development
 
+![Covid 19 Demo](/screenshot.png)
 
 ### Setup
  - jalankan perintah berikut:
