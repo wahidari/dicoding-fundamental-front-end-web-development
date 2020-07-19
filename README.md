@@ -1,5 +1,6 @@
 # Belajar Fundamental Front-End Web Development
 
+![Submission demo](https://github.com/wahidari/dicoding-fundamental-front-end-web-development/blob/submission/screenshot.png)
 
 ### Setup
  - jalankan perintah berikut:
